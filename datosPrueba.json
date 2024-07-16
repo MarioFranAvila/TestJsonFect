@@ -1,0 +1,5 @@
+{
+    "categories": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    "ventasData": [120, 210, 150, 80, 70, 110, 130],
+    "beneficioData": [30, 182, 434, 791, 390, 30, 10.5]
+} 
